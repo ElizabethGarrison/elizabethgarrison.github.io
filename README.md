@@ -30,7 +30,7 @@ Pharmacy Technician *CVS Health* Aug. 2020 - Jan. 2021
 **School Shootings Across America 1970 - 2023**
 For my capstone, I worked with a school shootings dataset of over 20,000 lines, using **Python** to clean and prep the data before bringing it into **Tableau**. I built an interactive storyboard with maps, charts, and timelines, designed around an orange color theme that represents the fight against gun violence. The project turned raw numbers into a visual story meant to spark empathy, reflection, and conversation.
 
-<img width="993" height="806" alt="Screenshot 2025-08-23 at 2 15 30 PM" src="https://github.com/user-attachments/assets/28c9040e-1d05-455c-b61a-bd645d279189" width="200" height="400" />
+<img width="993" height="806" alt="Screenshot 2025-08-23 at 2 15 30 PM" src="https://github.com/user-attachments/assets/28c9040e-1d05-455c-b61a-bd645d279189" />
 
 [Published Here](https://academicworks.cuny.edu/gc_etds/6056/)
 [Tableau Link Here](https://public.tableau.com/app/profile/elizabeth.garrison/viz/K-12SchoolShootingsintheUSA/Story1)
@@ -38,7 +38,7 @@ For my capstone, I worked with a school shootings dataset of over 20,000 lines, 
 **Monte Carlo Method with Random Walk Model for Advection Diffusion Processes**
 Using **Python**, I simulated both diffusion and advection-diffusion processes over 200 steps to study particle movement. In the diffusion-only model, particles spread predictably with a mean distance of 17.79 units and a narrow confidence interval (+/- 0.18). When velocity was introduced in the advection-diffusion model, the mean distance nearly doubled to 31.92 units, with a wider spread and more variability. This showed how external forces like advection can significantly influence particle dispersion.
 
-<img width="1200" height="500" alt="image-7" src="https://github.com/user-attachments/assets/6521f821-8788-4b25-ac2e-9f66bb846c46" width="200" height="400" />
+<img width="1200" height="500" alt="image-7" src="https://github.com/user-attachments/assets/6521f821-8788-4b25-ac2e-9f66bb846c46" />
 
 [GitHub Link Here](https://github.com/ElizabethGarrison/Garrison/tree/main/Monte%20Carlo%20Simulation/Main)
 
@@ -52,7 +52,7 @@ For this project, I worked with over 500,000 records of NYC rodent complaints, c
 **Global Child Labor (2010-2021)**
 For this project, I worked with 2,000 records on global child labor (2010–2021), cleaning the dataset in Excel and building visualizations in Tableau. I highlighted patterns in hazardous work, gender disparities, economic activity, and working hours, using filled-shape icons to add a human element to the data. The dark gray background with red-orange accents symbolized the harsh realities behind child labor, while blue and pink represented gender. The project aimed to reveal overlooked truths about the origins of consumer goods and spark awareness around an issue often hidden or underreported.
 
-<img width="961" height="884" alt="Screenshot 2025-08-23 at 2 50 28 PM" src="https://github.com/user-attachments/assets/5500371b-4885-4038-adf5-e7e1722944ef" width="200" height="400" />
+<img width="961" height="884" alt="Screenshot 2025-08-23 at 2 50 28 PM" src="https://github.com/user-attachments/assets/5500371b-4885-4038-adf5-e7e1722944ef" />
 
 [Tableau Link Here](https://public.tableau.com/app/profile/elizabeth.garrison/viz/ChildLabor2010-2021/Storyboard)
 [Data Set Linked Here](https://docs.google.com/spreadsheets/d/1zGj50OcGfos-gEwTV9iKtwsA3_ue0Fvo7UZSMltnk4s/edit?gid=0#gid=0)
