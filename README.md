@@ -11,7 +11,20 @@ Master of Science: Data Analytics and Visualization GPA: 3.9
 Bachelor of Science: Psychology with a Minor in Biology GPA: 3.8
 
 ## Work Experience
+Framer/Cashier *Micheals* Oct. 2022 - Jan. 2024
+- Provided personalized framing solutions based on customer preferences and needs, utilizing problem-solving and attention to detail.
+- Ensured data accuracy in inventory management, applying analytical thinking for inventory control.
+- Provided excellent customer service, contributing to a positive and efficient sales experience.
 
+Student Educator *Lavner Education* Feb. 2022 - Dec. 2022
+- Implemented coding lessons using Python and Lua, helping students build projects in Roblox Studio and Blender.
+- Analyzed student progress and behavior, tailoring lessons to individual learning needs, improving overall student outcomes.
+- Collaborated with supervisors and guardians to monitor student progress, ensuring continued development.
+
+Pharmacy Technician *CVS Health* Aug. 2020 - Jan. 2021
+- Supported pharmacists in efficiently filling prescriptions and managing inventory using data analysis tools.
+- Assisted in the distribution of COVID-19 test kits, ensuring compliance with health and safety regulations.
+- Utilized data visualization techniques to monitor inventory levels and predict demand.
 
 ## Projects
 **School Shootings Across America 1970 - 2023**
