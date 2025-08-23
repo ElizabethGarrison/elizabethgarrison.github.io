@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: Elizabeth Garrison's Portfolio
-description: Please explore my past projects to grab a glimspe of me.
+#logo: 
+description: Explore my past projects to grab a glimspe of me.
+theme: jekyll-theme-minimal
