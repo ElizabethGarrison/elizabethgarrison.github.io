@@ -45,7 +45,7 @@ Using **Python**, I simulated both diffusion and advection-diffusion processes o
 **Rodent Complaints in NYC**
 For this project, I worked with over 500,000 records of NYC rodent complaints, cleaning the dataset in **Excel** and visualizing it in **Tableau**. I built a density (heat) map to show how cases spread across the city, a treemap to highlight categories of complaints, and a line graph to reveal long-term trends. Inspired by NYC’s iconic yellow taxis, I used a bold, accessible color palette to make the data more engaging and inclusive. The project not only showed where and when rodent issues were most severe but also explored how design choices can shape how we interpret urban data.
 
-<img width="993" height="790" alt="Screenshot 2025-08-23 at 2 40 48 PM" src="https://github.com/user-attachments/assets/27dbe0eb-cc55-444e-a8db-64aea5f1bda2" width="200" height="400" />
+<img width="993" height="790" alt="Screenshot 2025-08-23 at 2 40 48 PM" src="https://github.com/user-attachments/assets/27dbe0eb-cc55-444e-a8db-64aea5f1bda2" />
 
 [Tableau Link Here](https://public.tableau.com/app/profile/elizabeth.garrison/viz/RodentProject1/Dashboard1)
 
