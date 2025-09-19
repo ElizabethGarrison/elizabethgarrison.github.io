@@ -30,7 +30,7 @@ Pharmacy Technician *CVS Health* Aug. 2020 - Jan. 2021
 **School Shootings Across America 1970 - 2023**
 For my capstone, I worked with a school shootings dataset of over 20,000 lines, using **Python** to clean and prep the data before bringing it into **Tableau**. I built an interactive storyboard with maps, charts, and timelines, designed around an orange color theme that represents the fight against gun violence. The project turned raw numbers into a visual story meant to spark empathy, reflection, and conversation.
 
-<img width= 100% height= 100% alt="Screenshot 2025-08-23 at 2 15 30 PM" src="https://github.com/user-attachments/assets/28c9040e-1d05-455c-b61a-bd645d279189" />
+<img width= auto height= auto alt="Screenshot 2025-08-23 at 2 15 30 PM" src="https://github.com/user-attachments/assets/28c9040e-1d05-455c-b61a-bd645d279189" />
 
 [Published Here](https://academicworks.cuny.edu/gc_etds/6056/)
 [Tableau Link Here](https://public.tableau.com/app/profile/elizabeth.garrison/viz/K-12SchoolShootingsintheUSA/Story1)
